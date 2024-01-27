@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/867040792463802389?theme=light&bg=f633ff&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Đang%20không%20làm%20gì%20cả)](https://discord.com/users/867040792463802389)
+[![Discord Presence](https://lanyard.cnrad.dev/api/867040792463802389?theme=dark&bg=4633ff&animated=true&showDisplayName=true&hideDiscrim=true&borderRadius=30px&idleMessage=Đang%20không%20làm%20gì%20cả)](https://discord.com/users/867040792463802389)
