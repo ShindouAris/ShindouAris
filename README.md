@@ -15,7 +15,8 @@
 
 ###
 
-<p align="right">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript and Java<br>🎯 Goals: Idk <br> "Code by day, game dev by night. Obsessed with pixels, speed, and innovation. If it can be built, I'll figure out how. 🚀"</p>
+<p align="right">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript and Java<br>🎯 Goals: Idk <br> "Code by day, game dev by night. Obsessed with pixels, speed, and innovation. If it can be built, I'll figure out how. 🚀" <br> "Passionate about game development, modding, and mobile apps. Always exploring new tech." <br> -chatGPT-
+</p>
 
 ###
 
@@ -59,5 +60,7 @@
 ###
 <h2 align="center">Discord ?!</h2>
 <div align="center">
+  
 [![Discord Presence](https://lanyard.cnrad.dev/api/867040792463802389?theme=dark&bg=4633ff&animated=true&showDisplayName=true&hideDiscrim=true&borderRadius=30px&idleMessage=Đang%20không%20làm%20gì%20cả)](https://discord.com/users/867040792463802389)
+
 </div>
