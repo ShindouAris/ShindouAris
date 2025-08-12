@@ -15,7 +15,7 @@
 
 ###
 
-<p align="right">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript and Java<br>🎯 Goals: Idk <br> "Code by day, game dev by night. Obsessed with pixels, speed, and innovation. If it can be built, I'll figure out how. 🚀" <br> "Passionate about game development, modding, and mobile apps. Always exploring new tech." <br> -chatGPT-
+<p align="right">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript, TypeScript and Java<br>🎯 Goals: Idk <br> "Code by day. If it can be built, I'll figure out how. 🚀" <br> "Passionate about game development, modding, and mobile apps. Always exploring new tech." <br> -chatGPT-
 </p>
 
 ###
