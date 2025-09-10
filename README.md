@@ -15,36 +15,59 @@
 
 ###
 
-<p align="right">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript, TypeScript and Java<br>🎯 Goals: Idk <br> "Code by day. If it can be built, I'll figure out how. 🚀" <br> "Passionate about game development, modding, and mobile apps. Always exploring new tech." <br> -chatGPT-
+<p align="right">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript, TypeScript, Java and C++<br>🎯 Goals: Have a stable job for serveral year <br> "Passionate about game modding, and mobile apps. Always exploring new tech."
 </p>
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="center">Programming Languages that i use</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,rust,cpp" alt="My Skills">
 </div>
 
-###
+<h2 align="left">Frontend Development</h2>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,md" alt="Frontend Skills">
+</div>
 
-<h2 align="center">Stat</h2>
+<h2 align="right">Backend Development (Frameworks)</h2>
+<div align="right">
+  <img src="https://skillicons.dev/icons?i=fastapi,elysia,nodejs,express,bun" alt="Backend Skills">
+</div>
+
+<h2 align="left">IDE</h2>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,idea,clion,androidstudio,visualstudio,vscode" alt="IDES">
+</div>
+
+<h2 align="right">Databases</h2>
+<div align="right">
+  <img src="https://skillicons.dev/icons?i=,mysql,postgres,redis,mongo,sqlite" alt="Dbs">
+</div>
+
+<h2 align="left">Others</h2>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,bash,ubuntu,arch,tensorflow,postman,vite,vercel,cloudflare" alt="Other skills">
+</div>
+
+<h2>More about me</h2>
+
+<img src="/uni_icon.png" align="right" height="120px" />
+<!-- <img src="https://nckh.lhu.edu.vn/Data/News/409/images/2022/logo_dung_en_1_.png" align="right" height="120px" /> -->
+
+* Currently studying at **Lac Hong University** 🎓<br/>
+* Year: **2025-2028** <br/>
+* Field of study: **Computer Science.** 💻
+* Born: **18/08**
+* Wibu (real)
+* Not gud at <del>**english**
+* Read lewd everynight (😭)
+
+
+<h2 align="center">Stat and something</h2>
 
 ###
 
