@@ -59,7 +59,7 @@
 <!-- <img src="https://nckh.lhu.edu.vn/Data/News/409/images/2022/logo_dung_en_1_.png" align="right" height="120px" /> -->
 
 * Currently studying at **Lac Hong University** 🎓<br/>
-* Year: **2025-2028** <br/>
+* Year: **2025-2029** <br/>
 * Field of study: **Computer Science.** 💻
 * Born: **18/08**
 * Wibu (real)
