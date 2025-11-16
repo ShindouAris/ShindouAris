@@ -11,7 +11,7 @@
 ###
 
 
-<img align="left" height="200" src="https://i.ibb.co/9kSsNWJz/image.png"  /> 
+<img align="left" height="200" src="/163568f47514867ec904c4e64bf30245.jpg"  /> 
 
 ###
 
@@ -71,7 +71,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.ibb.co/JRxXXc0F/image.png"  />
+<img align="right" height="200" src="/35914ca0018ce380ffd4aca06ab85406.jpg"  />
 
 ###
 
