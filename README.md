@@ -66,8 +66,8 @@
 * Not gud at <del>**english**
 * Read lewd everynight (😭)
 
-<My programming motto is:
-<img src="/FB_IMG_1764957042869.jpg" align="right" />
+<h2>My programming motto is:</h2>
+<img src="/FB_IMG_1764957042869.jpg" height="120px" align="right" />
 
 <h2 align="center">Stat and something</h2>
 
